@@ -1,4 +1,4 @@
-#  Manejo de Errores en Programación Web y Ciberseguridad (Python)
+#  Manejo de Errores
 
 ##  Introducción
 El manejo de errores es un componente esencial en el desarrollo de software moderno. Un sistema que no gestiona correctamente sus errores puede exponer información sensible, facilitar ataques o dificultar la detección temprana de vulnerabilidades.
